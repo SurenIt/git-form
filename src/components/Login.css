@@ -1,0 +1,19 @@
+.formRegister{
+    display: flex;
+    justify-content: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+input{
+    padding: 10px;
+    font-size: 20px;
+}
+button{
+    padding: 20px;
+    background-color: rgb(107, 102, 202);
+    border-color: transparent;
+    cursor: pointer;
+}
